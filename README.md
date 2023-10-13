@@ -2,9 +2,7 @@
 
 
 <br>
-<p align="center">
-  <img alt="projeto" src=".github/preview.png" width="100%">
-</p>
+
 
 ## Technologies
 
